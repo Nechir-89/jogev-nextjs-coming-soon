@@ -1,0 +1,22 @@
+[
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "link": "https://www.facebook.com/profile.php?id=61563096749910"
+  },
+  {
+    "id": "instagtam",
+    "name": "Instagram",
+    "link": "https://www.instagram.com/jogev_org/"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@jogev.organizatio"
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "link": "https://x.com/jogev_org"
+  }
+]

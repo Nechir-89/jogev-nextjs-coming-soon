@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mail",
+    "path": "/contact-icons/mail.svg",
+    "data": "info@jogev.org"
+  },
+  {
+    "id": "phone",
+    "path": "/contact-icons/phone.svg",
+    "data": "+49 2018 785 7540"
+  }
+]
