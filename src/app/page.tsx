@@ -12,7 +12,7 @@ export default function Home() {
         <h3 className={styles.h3}>COMING SOON</h3>
         <h1>JOGEV Organization</h1>
         <p className={styles.description}>
-          We're under construction. Check back for an update soon. Stay in touch!
+          We are under construction. Check back for an update soon. Stay in touch!
         </p>
         <div className={styles.contactsContainer}>
           {
